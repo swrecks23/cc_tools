@@ -41,8 +41,8 @@ class GameLibrary:
             return_str += "    Title = " + game.title + "\n"
             return_str += "    Year  = " + str(game.year) + "\n"
             return_str += "    Platform = " + "\n"
-            return_str += "       Name = " + game.platform.name + "\n"
-            return_str += "       Launch Year = " + str(game.platform.launch_year) + "\n"
+            # return_str += "    Name = " + game.platform.name + "\n"
+            # return_str += "    Launch Year = " + str(game.platform.launch_year) + "\n"
             game_count += 1
         return return_str
 
