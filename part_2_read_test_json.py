@@ -50,5 +50,6 @@ with open("data/test_data.json","r") as reader:
     test_json = json.load(reader)
 #Use make_game_library_from_json(json_data) to convert the data to GameLibrary data
 test_data = make_game_library_from_json(test_json)
-
+#Print out the resulting GameLibrary data using print()
+print(test_data)
 ### End Add Code Here ###
