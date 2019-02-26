@@ -13,7 +13,7 @@
                   "optional_fields" : [
       {
             "id" : "Hint",
-            "hint_data" : "Try getting this damn thing to work"
+            "hint_data" : "Push the dirt block into the water and go to the far right of the screen"
       },
       {
             "id" : "Password",
@@ -86,7 +86,7 @@
                   "optional_fields" : [
       {
             "id" : "Hint",
-            "hint_data" : "Try getting this damn thing to work"
+            "hint_data" : "Try pushing the dirt block into the water"
       },
       {
             "id" : "Password",
